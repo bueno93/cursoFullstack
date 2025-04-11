@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(42, 15, 247);
+}
+
+
+h1 {
+    text-align: center;
+    color: red;
+    
+
+}
+
+.titulo-h2 {
+    color: green;
+   
+}
+#titulo-1 {
+    color: yellowgreen;
+}
+ #divs {
+    display: flex;
+    display: grid;
+    align-items: center;
+ }
+
+div {
+
+    color: white;
+    width: 400px;
+    height: 60px;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#box1 {
+  
+    background-color: black;
+    border: 2px, solid , white;
+    margin: 2px;
+    padding-left: 400px;
+
+}
+#box2 {
+    background-color: green;
+    border: 2px, solid , white;
+    margin: 2px;
+    padding-left: 400px;
+}
+#box3 {
+    background-color: red;
+    border: 2px, solid , white;
+    margin: 2px;
+    padding-left: 400px;
+}
